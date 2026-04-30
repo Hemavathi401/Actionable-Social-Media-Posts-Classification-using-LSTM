@@ -186,47 +186,54 @@ Actionable_Social_Media_Posts_LSTM.ipynb
 
 ## 📌 Honest Project Evaluation
 
-What Is Good
+### ✅ What Is Good
 
-✅ Complete end-to-end NLP pipeline
-✅ Uses real Deep Learning model
-✅ Shows preprocessing + evaluation skills
-✅ Good beginner portfolio project
-✅ Relevant for customer support / sentiment routing use cases
+- Complete end-to-end NLP pipeline  
+- Uses a real Deep Learning model  
+- Demonstrates preprocessing and evaluation skills  
+- Strong beginner portfolio project  
+- Relevant for customer support / text routing use cases  
 
-What Is Limited
+### ⚠️ What Is Limited
 
-⚠️ TF-IDF + LSTM is not ideal modern architecture combination
-⚠️ Better methods today: Embeddings, GRU, BERT, DistilBERT, Transformers
-⚠️ Small dataset limits performance ceiling
-⚠️ Synthetic/simple dataset likely used for learning
+- TF-IDF + LSTM is not the most modern architecture combination  
+- Better modern methods: Embeddings, GRU, BERT, DistilBERT, Transformers  
+- Small dataset limits performance potential  
+- Likely built on a simplified learning dataset  
 
-This is a solid learning project, not a production-grade AI system.
+### Final Verdict
+
+This is a **solid learning project**, not a production-grade AI system.
 
 ---
+
 ## 🚀 Future Improvements
 
-Use Word2Vec / GloVe embeddings
-Replace TF-IDF with Tokenizer + Padding
-Try GRU / BiLSTM
-Use BERT Transformer model
-Hyperparameter tuning
-Deploy using Flask / Streamlit
-Add real Twitter / Instagram complaint dataset
+- Use Word2Vec / GloVe embeddings  
+- Replace TF-IDF with Tokenizer + Padding  
+- Try GRU / BiLSTM  
+- Use BERT Transformer model  
+- Perform hyperparameter tuning  
+- Deploy using Flask or Streamlit  
+- Add real Twitter / Instagram complaint datasets  
+
 ---
 
-## 💼 This project can demonstrate:
+## 💼 What This Project Demonstrates
 
-NLP fundamentals
-Deep learning basics
-Binary classification
-TensorFlow usage
-Model evaluation understanding
-Ability to complete ML pipeline independently
+- NLP fundamentals  
+- Deep learning basics  
+- Binary classification  
+- TensorFlow usage  
+- Model evaluation understanding  
+- Ability to complete an ML pipeline independently  
+
+Best Positioned As
+- Deep Learning Learning Project  
+- NLP Text Classification Project  
+
 ---
-Best positioned as: Deep Learning Learning Project or NLP Text Classification Project
-
 
 ## 📌 Author Note
 
-Created as a practical project to strengthen understanding of Deep Learning + NLP workflows. Do Follow for More!
+Created as a practical project to strengthen understanding of **Deep Learning + NLP workflows** for learning and job preparation.
