@@ -170,6 +170,20 @@ Class	Precision	Recall	F1-Score
 0	     0.68	      0.67	  0.68
 1	     0.71	      0.72	  0.71
 
+---
+
+## ▶️ How to Run
+
+pip install pandas numpy matplotlib scikit-learn tensorflow
+
+Run notebook:
+
+jupyter notebook
+
+Open:
+
+Actionable_Social_Media_Posts_LSTM.ipynb
+
 ## 📌 Honest Project Evaluation
 
 What Is Good
@@ -189,6 +203,7 @@ What Is Limited
 
 This is a solid learning project, not a production-grade AI system.
 
+---
 ## 🚀 Future Improvements
 
 Use Word2Vec / GloVe embeddings
@@ -198,7 +213,7 @@ Use BERT Transformer model
 Hyperparameter tuning
 Deploy using Flask / Streamlit
 Add real Twitter / Instagram complaint dataset
-
+---
 
 ## 💼 This project can demonstrate:
 
@@ -208,20 +223,9 @@ Binary classification
 TensorFlow usage
 Model evaluation understanding
 Ability to complete ML pipeline independently
-
+---
 Best positioned as: Deep Learning Learning Project or NLP Text Classification Project
 
-## ▶️ How to Run
-
-pip install pandas numpy matplotlib scikit-learn tensorflow
-
-Run notebook:
-
-jupyter notebook
-
-Open:
-
-Actionable_Social_Media_Posts_LSTM.ipynb
 
 ## 📌 Author Note
 
